@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   const [NombreUsuario, setNombreUsuario] = useState("Bienvenide");
 
-  let UsuarioClave = { nombre: "goku12", contraseña: "1234" };
+  let UsuarioClave = { nombre: "summerhack", contraseña: "2024" };
 
 
   let AgregarNombre = (e) => {
